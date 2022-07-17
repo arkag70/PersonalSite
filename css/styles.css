@@ -69,14 +69,16 @@ h4{
     margin-top: 30px;
 }
 .number{
-    position: relative;
-    right: 50px;
-    color: #40514E;
-}
-.mail{
-    position: relative;
+    position: absolute;
     left: 50px;
     color: #40514E;
+    font-weight: light;
+}
+.mail{
+    position: absolute;
+    right: 50px;
+    color: #40514E;
+    font-weight: light;
 }
 
 hr{
@@ -100,7 +102,7 @@ hr{
 }
 
 .bottom-container{
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 30px;
     margin-top: 20px;
     background-color: #66BFBF;
