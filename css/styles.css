@@ -68,6 +68,16 @@ h4{
 .middle-container{
     margin-top: 30px;
 }
+.number{
+    position: relative;
+    right: 50px;
+    color: #40514E;
+}
+.mail{
+    position: relative;
+    left: 50px;
+    color: #40514E;
+}
 
 hr{
     border-style: dotted none none none;
